@@ -6,7 +6,7 @@
 
     <groupId>org.springboot</groupId>
     <artifactId>spring-boot-jpa</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>1.0</version>
 
     <parent>
